@@ -8,4 +8,6 @@ gid commit -m file name
 git push
 day2
 end
+next
+next
 
